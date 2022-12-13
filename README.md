@@ -27,7 +27,7 @@ This project uses the Northwind database, to restore the database follow the ins
 
     ![Drop Schema](images/drop_database.png)
 
-Each file in `./desafioN.sql` (where N is the challenge number) contains commented the challenge and the SQL code of the resolution.
+Each file in `./challenges/desafioN.sql` (where N is the challenge number) contains commented the challenge and the SQL code of the resolution.
 
 ---
 
@@ -43,7 +43,7 @@ Each file in `./desafioN.sql` (where N is the challenge number) contains comment
 To run the project locally:
 1. Clone o repositório
 ```
-$ git clone git@github.com:AlineCarolina/One-For-All.git
+$ git clone git@github.com:AlineCarolina/all-for-one.git
 ```
 2. Install dependencies
 ```
